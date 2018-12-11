@@ -1,0 +1,27 @@
+
+======================= DIET HIPOTENSI =======================
+
++ TUJUAN DIET
+  Tujuan dilakukannya diet ini adalah untuk menaikan tekanan
+  darah dari pasien supaya memiliki nilai tekanan darah yang 
+  normal. 
+
++ AKSI YANG DIANJURKAN
+  - konsumsi banyak kandungan garam dalam makanan (kecuali 
+    untuk pasien lansia)
+  - minum banyak air putih untuk mencegah dehidrasi
+  - minum secangkir kopi di pagi hari
+  - kurangi mengkonsumsi alkohol 
+  - mengubah posisi secara perlahan, misalnya tidak tiba tiba 
+    berdiri saat bangun tidur
+  - tidur dengan 2 sampai 3 bantal 
+
++ DAFTAR MAKANAN
+  Dianjurkan			Dilarang
+  - Kismis 			- Makanan yang berminyak	
+  - Susu Almond			- Makanan cepat saji
+  - Jus Wortel			- Makanan pedas
+  - Lemon			- Mentimu
+  - Bawang Putih		- Makanan tinggi karbohidrat
+  - Kopi			- Melimbing
+

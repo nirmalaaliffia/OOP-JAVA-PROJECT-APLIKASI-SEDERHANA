@@ -1,0 +1,23 @@
+
+======================= DIET HIPERTENSI ======================
+
++ TUJUAN DIET
+  Tujuan dilakukannya diet ini adalah untuk menurunkan tekanan
+  darah dari pasien supaya memiliki nilai tekanan darah yang 
+  normal. 
+
++ AKSI YANG DIANJURKAN
+  - turunkan berat badan  (bagi pasien obesitas)
+  - lakukan olahraga ringan secara teratur
+  - kurangi konsumsi natrium (garam)
+  - kurangi konsumsi kopi dan alkohol
+  - kurangi stress
+
++ DAFTAR MAKANAN
+  Dianjurkan			Dilarang
+  - Buah Pisang			- Makanan asin
+  - Buah Aprikot		- Daging Berlemak
+  - Gandum			- Makanan Manis
+  - Sayuran Brokoli		- Makanan cepat saji
+  - Bayam			- Susu
+  - Biji bunga matahari		- Kopi

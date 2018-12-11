@@ -1,0 +1,33 @@
+
+========================= RESULT ===============================
+
++ KOLESTEROL TINGGI
+  Anda mengalami gejala KOLESTEROL TINGGI
+  Harap menjaga pola makanan dan pola hidup
+  Periksakan ke dokter segera.
+
++ Penyebab yang mungkin meliputi:
+  (1). Faktor tidak dapat dikontrol :
+	- Keturunan
+	- Usia
+  (2). Faktor yang dapat dikontrol :
+	- Makanan terlalu banyak lemak jenuh
+	- Kelebihan berat badan
+	- Kurang berolahraga
+	- Merokok
+	- Gaya hidup yang tidak sehat
+	- Stress
+	- Diabetes Mellitus
+	- Minum Kopi berlebihan
+	- Diet yang salah
+	- Obesitar   
+
+
++ Cara merendahkan Kolesterol Tinggi :
+	- Hindari makanan penyebab kolesterol tinggi
+	- Konsumsi brokoli
+	- Konsumsi Jus jambu Merah
+	- Konsumsi Jus anggur
+	- Konsumsi Kulit Manggis
+	- Menjaga pola hidup
+	- Olahraga teratur ditambah diet bebas kolesterol
